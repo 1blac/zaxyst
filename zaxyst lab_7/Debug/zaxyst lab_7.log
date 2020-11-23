@@ -1,0 +1,4 @@
+﻿  Source.cpp
+C:\Users\1\source\repos\zaxyst lab_7\zaxyst lab_7\Source.cpp(66,17): warning C4553: '==': result of expression not used; did you intend '='?
+C:\Users\1\source\repos\zaxyst lab_7\zaxyst lab_7\Source.cpp(76,16): warning C4805: '==': unsafe mix of type 'int' and type 'bool' in operation
+  zaxyst lab_7.vcxproj -> C:\Users\1\source\repos\zaxyst lab_7\Debug\zaxyst lab_7.exe
